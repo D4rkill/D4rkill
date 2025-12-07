@@ -65,7 +65,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
+  <a href="https://github.com/D4rkill" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.linkedin.com/in/william-oliveira-0793662a3/" target="_blank">
