@@ -43,13 +43,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 My GitHub Summary
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=D4rkill&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=D4rkill&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D4rkill&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D4rkill&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D4rkill&theme=tokyonight" />
 </p>
-
 
 ---
 
